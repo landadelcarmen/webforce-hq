@@ -1,13 +1,14 @@
-#WebForce HQ Test
+# WebForce HQ Test
 
-####Prueba de conocimientos de Laravel.
+
+#### Prueba de conocimientos de Laravel.
 
 La prueba es un blog con autenticación de usuarios. El Blog
 está desarrollado con Larvel, VueJS y Vuetify.
 
 ---
 
-####Características
+#### Características
 
 Se agregaron roles y permisos a los usuarios. De esta
 manera los administradores (rol 1) pueden editar y eliminar cualquier post así como editar y eliminar usuarios, mientras
